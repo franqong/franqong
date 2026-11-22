@@ -17,12 +17,7 @@ Desarrollador de software y Analista Trainee en ciberseguridad. Me enfoco en seg
 ### Stack & Entorno
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-2E3440?style=flat-square&logo=rust&logoColor=FAB387&labelColor=1D2129&color=2E3440" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C++-2E3440?style=flat-square&logo=cplusplus&logoColor=89B4FA&labelColor=1D2129&color=2E3440" />
-  <img src="https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=F9E2AF&labelColor=1D2129&color=2E3440" />
-  <img src="https://img.shields.io/badge/React-2E3440?style=flat-square&logo=react&logoColor=94E2D5&labelColor=1D2129&color=2E3440" />
-  <img src="https://img.shields.io/badge/Debian-2E3440?style=flat-square&logo=debian&logoColor=F38BA8&labelColor=1D2129&color=2E3440" />
-  <img src="https://img.shields.io/badge/Zed-2E3440?style=flat-square&logo=zedindustries&logoColor=CBA6F7&labelColor=1D2129&color=2E3440" />
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-2E3440?style=flat-square&logo=rust&logoColor=FAB387&labelColor=1D2129&color=2E3440" /></a> <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%20%2F%20C++-2E3440?style=flat-square&logo=cplusplus&logoColor=89B4FA&labelColor=1D2129&color=2E3440" /></a> <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-2E3440?style=flat-square&logo=python&logoColor=F9E2AF&labelColor=1D2129&color=2E3440" /></a> <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-2E3440?style=flat-square&logo=react&logoColor=94E2D5&labelColor=1D2129&color=2E3440" /></a> <a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-2E3440?style=flat-square&logo=debian&logoColor=F38BA8&labelColor=1D2129&color=2E3440" /></a> <a href="https://zed.dev/"><img src="https://img.shields.io/badge/Zed-2E3440?style=flat-square&logo=zedindustries&logoColor=CBA6F7&labelColor=1D2129&color=2E3440" /></a>
 </p>
 
 ---
@@ -30,8 +25,8 @@ Desarrollador de software y Analista Trainee en ciberseguridad. Me enfoco en seg
 ### Actividad
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=franqong&show_icons=true&hide_border=true&bg_color=1D2129&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&ring_color=CBA6F7&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franqong&layout=compact&hide_border=true&bg_color=1D2129&title_color=CBA6F7&text_color=CDD6F4" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=franqong&show_icons=true&hide_border=true&bg_color=1D2129&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&ring_color=CBA6F7&include_all_commits=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franqong&layout=compact&hide_border=true&bg_color=1D2129&title_color=CBA6F7&text_color=CDD6F4" /></a>
 </div>
 
 <br/>
