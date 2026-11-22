@@ -1,7 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1D2129&height=120&section=header&text=Franco%20Garcia&fontSize=36&fontColor=CBA6F7&fontAlignY=52&desc=Software%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems&descSize=13&descAlignY=75&descColor=CDD6F4" width="100%" />
-
+  <a href="https://www.francogarcia.me">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=1D2129&height=120&section=header&text=Franco%20Garcia&fontSize=36&fontColor=CBA6F7&fontAlignY=52&desc=Software%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Systems&descSize=13&descAlignY=75&descColor=CDD6F4" width="100%" />
+  </a>
 </div>
 
 Desarrollador de software y Analista Trainee en ciberseguridad. Me enfoco en seguridad, rendimiento, sistemas de bajo nivel y herramientas ligeras.
@@ -37,10 +37,5 @@ Desarrollador de software y Analista Trainee en ciberseguridad. Me enfoco en seg
 <br/>
 
 <div align="center">
-  <a href="https://github.com/franqong">
-    <img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=CDD6F4&labelColor=1D2129&color=2E3440" />
-  </a>
-  <a href="mailto:garciafranco1998@gmail.com">
-    <img src="https://img.shields.io/badge/Contacto-2E3440?style=flat-square&logo=protonmail&logoColor=F5C2E7&labelColor=1D2129&color=2E3440" />
-  </a>
+  <a href="https://www.francogarcia.me"><img src="https://img.shields.io/badge/Portfolio-2E3440?style=flat-square&logo=astro&logoColor=94E2D5&labelColor=1D2129&color=2E3440" /></a>&nbsp;&nbsp;<a href="https://github.com/franqong"><img src="https://img.shields.io/badge/GitHub-2E3440?style=flat-square&logo=github&logoColor=CDD6F4&labelColor=1D2129&color=2E3440" /></a>&nbsp;&nbsp;<a href="mailto:garciafranco1998@gmail.com"><img src="https://img.shields.io/badge/Contacto-2E3440?style=flat-square&logo=protonmail&logoColor=F5C2E7&labelColor=1D2129&color=2E3440" /></a>
 </div>
